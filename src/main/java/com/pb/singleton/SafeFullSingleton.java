@@ -1,7 +1,7 @@
 package com.pb.singleton;
 
 /**
- *
+ * 安全的饱汉模式
  */
 public class SafeFullSingleton {
 
